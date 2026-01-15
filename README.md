@@ -101,9 +101,10 @@ Adjust these values based on hand comfort.
 
 ---
 
-## 📸 Demo
+## 📸 Connection Diagram
 
-> Add GIF / video here (Duck Hunt gameplay looks 🔥)
+<img width="632" height="560" alt="image" src="https://github.com/user-attachments/assets/6ec8a245-08d5-4c0b-a671-0e6619eee1d2" />
+
 
 ---
 
