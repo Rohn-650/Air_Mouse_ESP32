@@ -111,6 +111,8 @@ Adjust these values based on hand comfort.
 
 Check out the air mouse in action playing Duck Hunt:
 
+<img width="375" height="509" alt="Image" src="https://github.com/user-attachments/assets/535fa104-af6d-467e-9133-2be0ec19c89a" />
+
 🔗 [Watch Demo Video](./Working_Demo.mp4)
 
 ---
